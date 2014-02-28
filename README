@@ -1,0 +1,4 @@
+Package wordpress_to_md provides some utilities to convert wxr dumps to markdown files.
+
+docs: http://godoc.org/github.com/tmc/wordpress_to_md
+license: isc
